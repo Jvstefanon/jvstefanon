@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have 18 years<br>I have a Technical Degree in IT from Escola e Faculdade Fortec<br>
+I have 18 years<br>I have a Technical Degree in TI from Escola e Faculdade Fortec<br>
 
 
 ## 🌐 Socials:
