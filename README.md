@@ -1,5 +1,5 @@
 ## Hello guys👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jvstefanon_USERNAME&show_icons=true&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvstefanon)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jvstefanon/jvstefanon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
