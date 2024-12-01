@@ -1,5 +1,5 @@
 # 💫 About Me:
-Eu tenho 18 anos <br>Tenho técnico de TI da Escola e Faculdade Fortec<br>estudo java, c#, pyton
+I have 18 years<br>I have a Technical Degree in IT from Escola e Faculdade Fortec<br>
 
 
 ## 🌐 Socials:
