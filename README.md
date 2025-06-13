@@ -2,15 +2,6 @@
 I am 18 years old<br>
 passionate about technology, currently enrolled in Information Systems at Unisanta College.
 
-✔️ Frontend: HTML, CSS, (starting React)
-<br>
-✔️ Backend: PHP, Java, JavaScript
-<br>
-✔️ Databases: MySQL, Firebase
-<br>
-✔️ Version Control: Git & GitHub (basic)
-<br>
-✔️ Mobile Development: Xamarin (basic), React Native (beginner)
 <br>
 I’m always eager to learn and improve my skills, both in backend and frontend development, with a growing interest in mobile technologies.
 
