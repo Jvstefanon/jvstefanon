@@ -1,13 +1,18 @@
 # 💫 About Me:
 I am 18 years old<br>
-Im currently enrolled in Information System in the Unisanta College
-<br>
+passionate about technology, currently enrolled in Information Systems at Unisanta College.
 
-✔️Frontend: HTML, CSS, (React - iniciando)<br>
-✔️Backend: PHP, Java, JavaScript<br>
-✔️Banco de Dados: MySQL, Firebird<br>
-✔️Versionamento e Controle de Código: Git, GitHub (básico)<br>
-✔️Desenvolvimento Mobile: Xamarin (básico), React Native (iniciando)
+✔️ Frontend: HTML, CSS, (starting React)
+<br>
+✔️ Backend: PHP, Java, JavaScript
+<br>
+✔️ Databases: MySQL, Firebase
+<br>
+✔️ Version Control: Git & GitHub (basic)
+<br>
+✔️ Mobile Development: Xamarin (basic), React Native (beginner)
+<br>
+I’m always eager to learn and improve my skills, both in backend and frontend development, with a growing interest in mobile technologies.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/stefanonn__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-vitor-stefanon-lopes-98a1a730b/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@stefanon_12) 
