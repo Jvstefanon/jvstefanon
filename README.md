@@ -1,9 +1,15 @@
-# 💫 About Me:
-I am 18 years old<br>
-passionate about technology, currently enrolled in Information Systems at Unisanta College.
+💫 Sobre mim<br>
+Estudante de Sistemas de Informação com formação técnica em Informática e experiência prática no desenvolvimento de software. Meu foco está em unir a lógica de backend com a interatividade do frontend para entregar aplicações completas.<br>
 
-<br>
-I’m always eager to learn and improve my skills, both in backend and frontend development, with a growing interest in mobile technologies.
+🛠️ No que atuo hoje:<br>
+
+Frontend: Desenvolvimento com HTML5, CSS3 e JavaScript. Atualmente focado no domínio de React.<br>
+
+Backend: Experiência com PHP e Java, aplicando conceitos sólidos de lógica e bancos de dados.<br>
+
+Interesses: Arquitetura Full-stack (Node.js no horizonte), desenvolvimento mobile e gadgets de alta performance.<br>
+
+Busco constantemente otimizar processos através do código e me preparar para desafios em ambientes globais.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/stefanonn__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-vitor-stefanon-lopes-98a1a730b/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@stefanon_12) 
