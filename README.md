@@ -1,27 +1,41 @@
-💫 Sobre mim<br>
-Estudante de Sistemas de Informação com formação técnica em Informática e experiência prática no desenvolvimento de software. Meu foco está em unir a lógica de backend com a interatividade do frontend para entregar aplicações completas.<br>
+# Olá, eu sou o João Vitor Stefanon Lopes! 👋
 
-🛠️ No que atuo hoje:<br>
+ℹ️ **Sobre mim**
+Sou estudante de Sistemas de Informação na Unisanta e Desenvolvedor na FIPS (Ferrovia Interna do Porto de Santos). Unindo uma base técnica sólida com a vivência prática do mercado corporativo, meu foco principal é construir soluções robustas de ponta a ponta, conectando arquiteturas de backend eficientes com interfaces dinâmicas e intuitivas no frontend. 
 
-Frontend: Desenvolvimento com HTML5, CSS3 e JavaScript. Atualmente focado no domínio de React.<br>
-
-Backend: Experiência com PHP e Java, aplicando conceitos sólidos de lógica e bancos de dados.<br>
-
-Interesses: Arquitetura Full-stack (Node.js no horizonte), desenvolvimento mobile e gadgets de alta performance.<br>
-
-Busco constantemente otimizar processos através do código e me preparar para desafios em ambientes globais.<br>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/stefanonn__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-vitor-stefanon-lopes-98a1a730b/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@stefanon_12) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jvstefanon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jvstefanon&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvstefanon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Atualmente, também dedico meu tempo ao aperfeiçoamento do inglês com foco em carreira internacional e ao desenvolvimento de projetos pessoais escaláveis.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jvstefanon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 No que atuo hoje:
+
+*   **Frontend:** Desenvolvimento moderno com HTML5, CSS3, JavaScript e ecossistema React (incluindo Next.js e Tailwind CSS para interfaces de alta performance).
+*   **Backend & Bancos de Dados:** Construção de APIs e aplicações utilizando Node.js, PHP, Java, C# e Python. Experiência prática na modelagem e manipulação de bancos de dados relacionais e não-relacionais (SQL, PostgreSQL, MongoDB).
+*   **DevOps & Ferramentas:** Controle de versão com Git/GitHub e conteinização com Docker.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Frameworks / Libs** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.dot.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Bancos de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Ferramentas / DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jvstefanon&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Status do GitHub de jvstefanon" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvstefanon&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
+</p>
+
+---
+
+### 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_LINK_DO_INSTAGRAM)
