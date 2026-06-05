@@ -26,15 +26,6 @@ Atualmente, também dedico meu tempo ao aperfeiçoamento do inglês com foco em 
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jvstefanon&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Status do GitHub de jvstefanon" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvstefanon&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
-</p>
-
----
-
 ### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
