@@ -29,5 +29,5 @@ Atualmente, também dedico meu tempo ao aperfeiçoamento do inglês com foco em 
 
 ### 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-vitor-stefanon-lopes-98a1a730b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/joão-vitor-stefanon-lopes-98a1a730b](https://www.linkedin.com/in/jo%C3%A3o-vitor-stefanon-lopes-98a1a730b/?locale=pt-BR))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stefanonn.dev/)
