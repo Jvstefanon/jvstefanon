@@ -1,6 +1,7 @@
 # Olá, eu sou o João Vitor Stefanon Lopes! 👋
 
 ℹ️ **Sobre mim**
+
 Sou estudante de Sistemas de Informação na Unisanta e Desenvolvedor na FIPS (Ferrovia Interna do Porto de Santos). Unindo uma base técnica sólida com a vivência prática do mercado corporativo, meu foco principal é construir soluções robustas de ponta a ponta, conectando arquiteturas de backend eficientes com interfaces dinâmicas e intuitivas no frontend. 
 
 Atualmente, também dedico meu tempo ao aperfeiçoamento do inglês com foco em carreira internacional e ao desenvolvimento de projetos pessoais escaláveis.
